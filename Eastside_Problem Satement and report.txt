@@ -1,0 +1,25 @@
+Problem Statement : The profit margin and sales of some products for the company Eastside is going down. Sales head of Eastside is not happy with the performance of the team and is having a hard time tracking sales data and its insights. Also, there is a need to discontinue few products which are of low margin and low sales. And due to this, he is not able to take necessary steps.
+
+
+Goal: Creating a dashboard which can give different insights of sales to the sales team. By using which sales team can take necessary decisions and focus on the things which are actually important. 
+🔹 Worked on the Data Cleaning of the given data by using Data Transformation in Power BI.
+🔹 Worked on data modelling of Power BI to connect different tables.
+🔹 Created different measures(variables) for Net Sales, Net margin, Avg. Order PM, Avg. Customer PM profit % etc. using DAX in power BI.
+🔹 Built interactive Dashboards from the available data sets by using charts, cards and tables etc.
+
+📊 Reports:
+1️⃣ Key Insights: 
+🔹Clustered Bar graph of Net Sales & Net Margin by Month
+🔹Matrix chart for Product, Net sales, Net margin, Profit, Shipping cost.
+🔹 Donut Chart for Category VS Net sales, No. of customers, no. of orders, shipping cost etc.
+🔹 Geography presence of products in different countries.
+
+2️⃣ Profit Analysis:
+Plotted below graphs: 
+🔹 Top 5 & Bottom products w.r.t Net Sales
+🔹 Net sales and Net Margin with Month- wise trend.
+🔹Customers and orders received for each state.
+🔹 Top 3 countries w.r.t  Net sales and Net margin.
+
+
+
